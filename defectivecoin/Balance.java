@@ -4,6 +4,7 @@ import java.util.List;
 /**
  * This is a balance class
  * @author sarunapu
+ * The balance class contains a balance with two scales with list of objects in the left and right scale.
  * 
  */
 public class Balance {
